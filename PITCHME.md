@@ -1,4 +1,4 @@
-# Test Presentation
+# Test
 
 ### A GitPitch Presentation Template
 
